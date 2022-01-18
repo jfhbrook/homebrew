@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install jfhbrook/joshiverse/<formula>`
+`brew install jfhbrook/homebrew/<formula>`
 
-Or `brew tap jfhbrook/joshiverse` and then `brew install <formula>`.
+Or `brew tap jfhbrook/homebrew` and then `brew install <formula>`.
 
 ## Documentation
 
